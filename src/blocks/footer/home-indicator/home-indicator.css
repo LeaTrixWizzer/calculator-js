@@ -1,0 +1,7 @@
+.home-indicator {
+  width: 134px;
+  height: 5px;
+  margin-bottom: 8px;
+  background-color: var(--home-indicator-color);
+  cursor: grab;
+}

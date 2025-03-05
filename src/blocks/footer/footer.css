@@ -1,0 +1,11 @@
+@import url("./home-indicator/home-indicator.css");
+
+.footer {
+  block-size: 50px;
+  inline-size: 100%;
+  border-radius: 0 0 20px 20px;
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}

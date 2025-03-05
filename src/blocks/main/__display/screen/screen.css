@@ -1,0 +1,9 @@
+@import url("./-history/history.css");
+@import url("./-result/result.css");
+
+.screen {
+  margin: 0;
+  display: flex;
+  justify-content: end;
+  overflow: hidden;
+}

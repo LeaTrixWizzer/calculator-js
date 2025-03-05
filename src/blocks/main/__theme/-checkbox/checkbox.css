@@ -1,0 +1,19 @@
+.checkbox {
+  position: relative;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  appearance: none;
+}
+
+.checkbox:checked + .checkbox-switch::before {
+  background-color: var(--checkbox-light-color);
+  background-image: url(../../../../images/sun.svg);
+  background-position: 4px center;
+  background-repeat: no-repeat;
+}
+
+.checkbox:checked + .checkbox-switch::after {
+  background-color: var(--checkbox-switch-light-color);
+  left: 45px;
+}

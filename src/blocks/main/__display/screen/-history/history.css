@@ -1,0 +1,8 @@
+.screen-history {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 40px;
+  line-height: normal;
+  color: var(--text-color);
+  opacity: 40%;
+}

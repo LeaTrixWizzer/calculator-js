@@ -1,0 +1,8 @@
+.button-action {
+  font-family: var(--font-button);
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  background-color: var(--button-action-background-color);
+  color: var(--button-action-text-color);
+}

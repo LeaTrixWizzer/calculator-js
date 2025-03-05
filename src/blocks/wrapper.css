@@ -1,0 +1,8 @@
+@import url('./header/header.css');
+@import url('./main/main.css');
+@import url('./button/button.css');
+@import url('./footer/footer.css');
+
+.wrapper {
+  max-inline-size: 376px;
+}

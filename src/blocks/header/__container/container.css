@@ -1,0 +1,6 @@
+.header__container {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
