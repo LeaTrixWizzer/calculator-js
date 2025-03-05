@@ -1,0 +1,8 @@
+@import url("./-checkbox/theme-checkbox.css");
+@import url("./-checkbox/checkbox.css");
+@import url("./-checkbox/checkbox-switch.css");
+
+.main__theme {
+  display: flex;
+  justify-content: center;
+}

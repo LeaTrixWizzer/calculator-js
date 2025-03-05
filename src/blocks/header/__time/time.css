@@ -1,0 +1,8 @@
+.header__time {
+  margin: 8px 0 0 19px;
+  font-family: var(--font-time);
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  color: var(--time-color);
+}

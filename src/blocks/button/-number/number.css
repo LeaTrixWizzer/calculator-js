@@ -1,0 +1,8 @@
+.button-number {
+  font-family: var(--font-button);
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  background-color: var(--button-number-background-color);
+  color: var(--button-number-text-color);
+}

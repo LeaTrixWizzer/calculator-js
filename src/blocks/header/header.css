@@ -1,0 +1,12 @@
+@import url("./__time/time.css");
+@import url("./__container/container.css");
+
+.header {
+  block-size: 35px;
+  inline-size: 100%;
+  border-radius: 20px 20px 0 0;
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

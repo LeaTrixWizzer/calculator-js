@@ -1,0 +1,4 @@
+.button-svg:hover {
+  transform: rotate(46deg) scale(1.2);
+  transition: transform 0.3s ease;
+}

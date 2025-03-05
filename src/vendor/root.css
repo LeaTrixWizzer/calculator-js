@@ -1,0 +1,40 @@
+:root {
+  --black-color: #17171c;
+  --white-color: #ffffff;
+  --orange-color: #ff6e29;
+  --blue-color: #4b5efc;
+  --grayish-color: #2e2f38;
+
+  --font-family-sf-pro-text: "SF Pro Text";
+  --font-family-work-sans: "Work Sans";
+
+  --font-time: var(--font-family-sf-pro-text);
+  --font-display: var(--font-family-work-sans);
+  --font-button: var(--font-family-work-sans);
+
+  --background-color: var(--black-color);
+  --accent-color: var(--blue-color);
+
+  --time-color: var(--white-color);
+  --sign-color: var(--white-color);
+  --text-color: var(--white-color);
+
+  --checkbox-light-color: #ffffff;
+  --checkbox-dark-color: #2e2f38;
+  --checkbox-switch-light-color: #d2d3da;
+  --checkbox-switch-dark-color: #4e505f;
+
+  --button-number-background-color: var(--grayish-color);
+  --button-number-text-color: var(--white-color);
+
+  --button-action-background-color: var(--grayish-color);
+  --button-action-text-color: var(--orange-color);
+
+  --button-operation-background-color: var(--grayish-color);
+  --button-operation-text-color: var(--orange-color);
+
+  --button-result-background-color: var(--orange-color);
+  --button-result-text-color: var(--white-color);
+
+  --home-indicator-color: var(--white-color);
+}

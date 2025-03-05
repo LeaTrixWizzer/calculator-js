@@ -1,0 +1,9 @@
+@import url('./__theme/theme.css');
+@import url('./__display/display.css');
+@import url('./__button/button.css');
+
+.main {
+  block-size: max-content;
+  inline-size: 100%;
+  background-color: var(--background-color);
+}

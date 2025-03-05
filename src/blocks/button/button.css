@@ -1,0 +1,28 @@
+@import url("./-number/number.css");
+@import url("./-action/action.css");
+@import url("./-operation/operation.css");
+@import url("./-result/result.css");
+@import url("./-svg/svg.css");
+
+.button {
+  inline-size: 72px;
+  block-size: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 24px;
+  border: none;
+  text-align: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.button:focus-visible {
+  box-shadow: 0 0 0 3px var(--accent-color);
+}
+.button:hover {
+  box-shadow: 0 1px 1px 0 var(--accent-color), 0 2px 5px 0 var(--accent-color);
+}
+.button:active {
+  background-color: var(--accent-color) !important;
+}
